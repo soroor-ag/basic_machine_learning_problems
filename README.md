@@ -14,7 +14,7 @@ This repository contains solutions and implementations for various machine learn
    - [Question 1](#question-1): Enhance the dataset from the CWRU Bearing dataset by adding additional classes for faulty conditions. Provide a brief description of each new class.
    - [Question 2](#question-2): Implement a Multi-Layer Perceptron (MLP) with at least two hidden layers. Perform training and validation, visualize performance metrics, and analyze the results.
    - [Question 3](#question-3): Evaluate the effect of using different optimizers and loss functions on model performance. Compare and contrast the results.
-   - [Question 4](#question-4): Apply K-Fold Cross-validation methods to assess model performance. Choose the most suitable method and justify your choice.
+
 
 3. [Task 3: Decision Tree Classification](#task-3-decision-tree-classification)
    - [Question 1](#question-1): Split a dataset related to forest or pharmaceutical classifications into training and test sets. Develop and analyze a decision tree classifier.
